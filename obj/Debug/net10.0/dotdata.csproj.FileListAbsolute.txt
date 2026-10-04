@@ -1,0 +1,14 @@
+/home/marxist/Desktop/code/dotdata/dotdata/bin/Debug/net10.0/dotdata
+/home/marxist/Desktop/code/dotdata/dotdata/bin/Debug/net10.0/dotdata.deps.json
+/home/marxist/Desktop/code/dotdata/dotdata/bin/Debug/net10.0/dotdata.runtimeconfig.json
+/home/marxist/Desktop/code/dotdata/dotdata/bin/Debug/net10.0/dotdata.dll
+/home/marxist/Desktop/code/dotdata/dotdata/bin/Debug/net10.0/dotdata.pdb
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.GeneratedMSBuildEditorConfig.editorconfig
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.AssemblyInfoInputs.cache
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.AssemblyInfo.cs
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.csproj.CoreCompileInputs.cache
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.dll
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/refint/dotdata.dll
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.pdb
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.genruntimeconfig.cache
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/ref/dotdata.dll
