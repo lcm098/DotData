@@ -12,3 +12,4 @@
 /home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.pdb
 /home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.genruntimeconfig.cache
 /home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/ref/dotdata.dll
+/home/marxist/Desktop/code/dotdata/dotdata/obj/Debug/net10.0/dotdata.sourcelink.json

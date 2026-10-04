@@ -7,7 +7,49 @@ namespace factory
     public static class Fact
     {
 
-        
+        public static DotData GenZeros(List<int> shape)
+        {
+            int numel = 1;
+            foreach(int dim in shape)
+            {
+                numel *= dim;
+            }
+
+            List<double> matrix = new List<double>(new double[numel]);
+
+            DotData data = new DotData();
+            data.matrix = matrix;
+            data.numel = numel;
+            data.ndim = shape.Count;
+            data.shape = shape;
+            data.device = "cpu";
+            data.stride = Customize.compute_stride(shape);
+            return data;
+        }
+
+        public static DotData GenOnes(List<int> shape)
+        {
+            int numel = 1;
+            foreach(int dim in shape)
+            {
+                numel *= dim;
+            }
+
+            List<double> matrix = new List<double>(new double[numel]);
+            for(int i=0; i<numel; i++)
+            {
+                matrix[i] = 1.0;
+            }
+
+            DotData data = new DotData();
+            data.matrix = matrix;
+            data.numel = numel;
+            data.ndim = shape.Count;
+            data.shape = shape;
+            data.device = "cpu";
+            data.stride = Customize.compute_stride(shape);
+            return data;
+        }
 
         public static DotData GenRange(double start, double stop, double step)
         {
